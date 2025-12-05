@@ -31,6 +31,9 @@ Rings are created using random values and the player must sort them correctly.
 📌 Future Improvements
 
 Add score tracking
+
 Add timer
+
 Add more difficulty levels
+
 Add animations/sound effects
