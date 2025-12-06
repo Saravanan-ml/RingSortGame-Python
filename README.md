@@ -38,8 +38,8 @@ Add more difficulty levels
 
 Add animations/sound effects
  
-<img width="582" height="542" alt="image" src="https://github.com/user-attachments/assets/fc0dd3cd-147d-45b4-b58b-e0f6691e1430" />
- <img width="1255" height="758" alt="image" src="https://github.com/user-attachments/assets/b1325447-2d70-411a-90fa-7fa5192a1481" />
- <img width="1240" height="773" alt="image" src="https://github.com/user-attachments/assets/05d2f64c-92c9-414d-9815-e67b7bdc7ca3" />
+<img width="582" height="600" alt="image" src="https://github.com/user-attachments/assets/fc0dd3cd-147d-45b4-b58b-e0f6691e1430" />
+ <img width="1255" height="600" alt="image" src="https://github.com/user-attachments/assets/b1325447-2d70-411a-90fa-7fa5192a1481" />
+ <img width="1240" height="600" alt="image" src="https://github.com/user-attachments/assets/05d2f64c-92c9-414d-9815-e67b7bdc7ca3" />
 
 
